@@ -1,5 +1,5 @@
 <h1 align="center">Welcome👋, to this simple python program</h1>
-<h3 align="center">A basic and simple calculator made in python 3.11</h3>
+<h3 align="center">A basic and simple calculator and survey from made in python 3.11</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkziyech&label=Profile%20views&color=0e75b6&style=flat" alt="hkziyech" /> </p>
 
